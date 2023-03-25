@@ -1,5 +1,5 @@
 {
-  "twrp_url": "minimal-manifest-twrp/platform_manifest_twrp_omni",
+  "twrp_url": "github.com/minimal-manifest-twrp/platform_manifest_twrp_omni",
   "twrp_branch": "twrp-9.0",
   "git_username": "Pinkdoge",
   "git_email": "42758990+Pinkdoge@users.noreply.github.com",
